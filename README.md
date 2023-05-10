@@ -1,6 +1,6 @@
 ## Clone or download
 ```
-git clone
+git clone https://github.com/dalixiv/RecSys.git
 cd RecSys
 ```
 
